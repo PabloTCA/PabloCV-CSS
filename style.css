@@ -1,0 +1,114 @@
+h1{
+    font-family: "comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    text-align: center;
+    color: #FBFBFB;
+}
+h2{
+    font-family: "comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    text-align: center;
+    color: #FBFBFB;
+}
+body{
+
+    background-color: #FBFBFB;
+}
+h3{
+    text-align: left;
+    color: #C5BAFF;
+    
+}
+.areas{
+    text-align: left;
+    background-color: #E8F9FF;
+    display:flex; 
+    align-items: center;
+    min-height:50px;
+    box-shadow: 0px 3px 6px #C5BAFF;
+    padding: 10px 20px;
+}
+h4{
+    color:#C4D9FF;
+}
+p{
+    text-align: justify;
+}
+.centered-info{
+    border: none;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.my-info{
+    display:inline-block;
+    text-align: center;
+    padding:5px;
+    background-color: #C5BAFF;
+    box-shadow: 0px 5px 10px #E8F9FF;
+}
+.header{
+    border: 2px solid #E8F9FF;
+    margin:auto;
+    background-color: #C5BAFF;
+    box-shadow: 0px 10px 15px #E8F9FF;
+}
+.profile{
+    width:50%;
+    max-width: 500px;
+    margin:50px auto 0 auto;
+    border: 10px solid #E8F9FF;
+    padding:0;
+    box-shadow: 0px 10px 20px #C5BAFF;
+}
+.profile-img{
+    display:block;
+    max-width: 100%;
+    height:auto;
+}
+.description{
+    margin:0 auto;
+    padding:10px 20px
+
+}
+.date-info{
+    text-align: right;
+    padding: 10px 20px;
+}
+.date-date, .location{
+    color:#C5BAFF;
+}
+#school{
+    font-weight: bold;
+    color: #C5BAFF;
+}
+a:link{
+    color: #C4D9FF;
+}
+a:visited{
+    color:#E8F9FF;
+}
+footer{
+    display: flex;
+    align-items: center;
+    color: #FBFBFB;
+    background-color: #C5BAFF;
+    box-shadow: 0px 10px 15px #E8F9FF;
+    padding: 10px 20px;
+}
+.colorFont{
+    color:#FBFBFB;
+}
+.imgBox{
+    padding:10px 20px;
+}
+.picture{
+    display:block;
+    border:20px solid;
+    padding:0;
+}
